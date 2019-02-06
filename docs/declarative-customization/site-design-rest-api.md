@@ -415,7 +415,7 @@ None
 Here's an example of getting all the site designs.
 
 ```javascript
-RestRequest("/_api/Microsoft.Sharepoint.Utilities.WebTemplateExtensions.SiteScriptUtility.GetSiteDesigns");
+RestRequest("/_api/Microsoft.Sharepoint.Utilities.WebTemplateExtensions.SiteScriptUtility.GetSiteDesigns",null);
 ```
 
 <br/>
